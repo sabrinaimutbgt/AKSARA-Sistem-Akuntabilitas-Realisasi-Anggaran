@@ -1,6 +1,21 @@
 # AKSARA | Akuntabilitas Sistem Anggaran dan Realisasi
 
 Aplikasi AKSARA untuk mengelola anggaran organisasi, Proker per divisi, persetujuan, dan reimburse. Frontend menggunakan HTML, CSS, dan JavaScript yang terhubung langsung ke Supabase; Node.js tidak diperlukan.
+# AKSARA — Akuntabilitas Sistem Anggaran dan Realisasi
+
+Dashboard berbasis web untuk mengelola anggaran dan memantau realisasi keuangan organisasi secara terstruktur, transparan, dan akuntabel. Aplikasi ini membantu pencatatan alokasi anggaran, transaksi pengeluaran, pemantauan serapan anggaran, serta pengajuan dan persetujuan reimburse.
+
+🌐 **Demo website:** [https://sabrinaimutbgt.github.io/AKSARA-Sistem-Akuntabilitas-Realisasi-Anggaran/](https://sabrinaimutbgt.github.io/AKSARA-Sistem-Akuntabilitas-Realisasi-Anggaran/)
+
+## Fitur
+
+- Dashboard ringkasan total anggaran, realisasi, sisa anggaran, dan persentase serapan.
+- Pengelolaan alokasi anggaran berdasarkan unit organisasi, kategori, dan tahun.
+- Pencatatan transaksi realisasi pengeluaran beserta tanggal, uraian, jumlah, dan nomor bukti.
+- Pemantauan progres penggunaan anggaran dan saldo yang tersedia.
+- Pengajuan dan persetujuan reimburse.
+- Pengelolaan program kerja dan akses anggota organisasi.
+- Integrasi Supabase untuk mendukung autentikasi dan penyimpanan data.
 
 ## ERD
 
